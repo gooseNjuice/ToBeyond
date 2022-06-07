@@ -1,0 +1,19 @@
+@media (min-width: 1200px) {
+  .hero {
+
+    h1{
+      margin: 5rem;
+      vertical-align: center;
+      max-width: 50vw;
+      font-size: 5rem;
+      font-weight: lighter;
+      color: var(--surface-0);
+    }
+  }
+}
+@media (min-width: 800px) {
+  .hero { h1 {
+    max-width: 50vw;
+  }
+  }
+}

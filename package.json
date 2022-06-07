@@ -5,6 +5,9 @@
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
+    "primeflex": "^3.2.1",
+    "primeicons": "^5.0.0",
+    "primereact": "^8.1.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
@@ -13,6 +16,7 @@
     "source-map-explorer": "^2.5.2",
     "stylelint": "^14.8.5",
     "stylelint-scss": "^4.2.0",
+    "vanta": "^0.5.22",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
