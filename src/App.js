@@ -1,6 +1,5 @@
 /* eslint-disable react/jsx-filename-extension */
 import './App.scss';
-import {Button} from 'primereact/button';
 import {useEffect, useRef, useState} from 'react';
 import GLOBE from 'vanta/dist/vanta.globe.min';
 import PrimeReact from 'primereact/api';
